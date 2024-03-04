@@ -1,5 +1,5 @@
 /* 
-🌟 APP: Make Netflix
+🌟 APP: Make Edrichstreamify
 
 Create a fetchMovies() function that will make a dynamic API call to what you need 👇
 ========================================
